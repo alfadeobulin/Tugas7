@@ -1,0 +1,7 @@
+#Thu Sep 26 12:40:47 ICT 2019
+base.0=E\:\\Semester 5\\update\\ProteinTracker\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Semester 5\\update\\ProteinTracker\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
